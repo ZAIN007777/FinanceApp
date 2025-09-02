@@ -1,4 +1,4 @@
-# skin
+# Finance App
 
 A new Flutter project.
 
