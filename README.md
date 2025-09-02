@@ -1,4 +1,4 @@
-# Finance App
+# Finance App (Front-End Only)
 
 A new Flutter project.
 
